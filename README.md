@@ -1,0 +1,2 @@
+# XMLSitemapGenerator
+Sitemap generator
